@@ -1,0 +1,3182 @@
+[
+  {
+    "id": 1,
+    "nome": "Mariana Oliveira",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Python",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Rafael Almeida",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Lucas Martins",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "React",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Felipe Martins",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Energia limpa",
+      "Educação"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Beatriz Barros",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "Docker"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Lucas Rodrigues",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "React",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Felipe Rodrigues",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "AWS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Energia limpa",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "João Rodrigues",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Python",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Mariana Martins",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Docker",
+      "AWS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Ana Barros",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Docker",
+      "React",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Felipe Rodrigues",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Node.js",
+      "Docker"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Mariana Rodrigues",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "React",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Rafael Oliveira",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Node.js",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Educação"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Ana Gomes",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Beatriz Barros",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Python",
+      "Docker"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Juliana Oliveira",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "João Silva",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "AWS",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Ana Pereira",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "React",
+      "Docker",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Felipe Martins",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Educação"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Mariana Costa",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Beatriz Rodrigues",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React",
+      "SQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Lucas Martins",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Python",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Juliana Gomes",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "SQL",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Rafael Gomes",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React",
+      "SQL",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Rafael Martins",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "React",
+      "SQL",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Maria Gomes",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Docker",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Ana Pereira",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Mariana Oliveira",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "React",
+      "Docker",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Rafael Souza",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Juliana Barros",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Ana Costa",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "React",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Pedro Souza",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "Docker"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Energia limpa",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Mariana Oliveira",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Lucas Silva",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Beatriz Oliveira",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Lucas Souza",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Ana Oliveira",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Python",
+      "Docker",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Maria Martins",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Felipe Silva",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Energia limpa",
+      "Educação"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Ana Martins",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Node.js",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Mariana Pereira",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Docker",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "João Rodrigues",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Docker",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Energia limpa",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Pedro Gomes",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Maria Rodrigues",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Node.js",
+      "Docker"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Lucas Costa",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Energia limpa",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "João Pereira",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Docker",
+      "AWS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Pedro Costa",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "SQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Pedro Almeida",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Python",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Felipe Pereira",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Educação"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Beatriz Almeida",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "React",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Felipe Souza",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "AWS",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Lucas Pereira",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "React",
+      "Python"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Rafael Rodrigues",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Tecnologia",
+      "Educação"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Beatriz Barros",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Pedro Martins",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Python",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Felipe Silva",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Energia limpa",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Felipe Gomes",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "AWS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Maria Barros",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Energia limpa",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "João Gomes",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Energia limpa",
+      "Educação"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Pedro Oliveira",
+    "cargo": "Designer UX",
+    "resumo": "Profissional altamente qualificado com experiência na área.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Analista",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Responsável por atividades técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma XYZ",
+        "link": "https://projeto.com",
+        "descricao": "Projeto desenvolvido para fins acadêmicos."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Energia limpa"
+    ]
+  }
+]

@@ -1,6 +1,4 @@
 from database import collection
-from bson import ObjectId
-from schemas import PerfilCreate
 
 async def listar_perfis():
     perfis = []
@@ -38,16 +36,3 @@ async def filtrar_por_cargo(cargo: str):
         else:
             pass
     return perfis_filtrados
-
-async def criar_perfil(perfil: PerfilCreate):
-    novo = perfil.dict()
-    resultado = await collection.insert_one(novo)
-    novo["id"] = str(resultado.inserted_id)
-    return {
-        "id": novo["id"],
-        "mensagem": "Perfil criado com sucesso!"
-    }
-
-async def deletar_perfil(id: str):
-    resultado = await collection.delete_one({"_id": ObjectId(id)})
-    return {"removido": resultado.deleted_count > 0}

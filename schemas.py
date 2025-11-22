@@ -1,5 +1,4 @@
 from pydantic import BaseModel
-from typing import List
 
 class Idioma(BaseModel):
     idioma: str
@@ -24,20 +23,6 @@ class Projeto(BaseModel):
 
 class Perfil(BaseModel):
     id: int
-    nome: str
-    cargo: str
-    localizacao: str
-    area: str
-    habilidadesTecnicas: List[str]
-    softSkills: List[str]
-    experiencias: List[Experiencia]
-    formacao: List[Formacao]
-    projetos: List[Projeto]
-    certificacoes: List[str]
-    idiomas: List[Idioma]
-    areaInteresses: List[str]
-
-class PerfilCreate(BaseModel):
     nome: str
     cargo: str
     localizacao: str

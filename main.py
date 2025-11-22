@@ -1,3 +1,4 @@
+print('Iniciando API')
 from fastapi import FastAPI
 from routes.perfils import router as perfis_router
 

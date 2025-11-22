@@ -1,5 +1,6 @@
 from fastapi import APIRouter
-from crud import listar_perfis, buscar_por_area, buscar_por_habilidade, filtrar_por_cargo
+from crud import listar_perfis, buscar_por_area, buscar_por_habilidade, filtrar_por_cargo, criar_perfil, deletar_perfil
+from schemas import PerfilCreate
 
 router = APIRouter(prefix="/perfis")
 
@@ -18,3 +19,11 @@ async def get_por_habilidade(habilidade: str):
 @router.get("/cargo/{cargo}")
 async def get_por_cargo(cargo: str):
     return await filtrar_por_cargo(cargo)
+
+@router.post("/")
+async def post_perfil(perfil: PerfilCreate):
+    return await criar_perfil(perfil)
+
+@router.delete("/{id}")
+async def delete_perfil(id: str):
+    return await deletar_perfil(id)
